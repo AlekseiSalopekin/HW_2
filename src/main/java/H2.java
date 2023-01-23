@@ -1,5 +1,5 @@
 public class H2 {
-//        Напишите программу, чтобы найти вхождение в строке (содержащей все символы другой строки).
+
 static String s1 =  "Hello world!";
 static String s2 = "Hello world!";
 
@@ -29,6 +29,7 @@ static String s2 = "Hello world!";
 
 
     }
+    //        Напишите программу, чтобы найти вхождение в строке (содержащей все символы другой строки).
     public static void contains (String s1, String s2){
         System.out.println(s1.contains(s2));
     }
